@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+form{
+  display: inline-block;
+  background-image: url(https://img.lovepik.com/background/20211021/large/lovepik-abstract-background-image_400201514.jpg);
+}
+form label{
+  display: inline-block;
+  width: 100px;
+  color:blue;
+  font-style: oblique;
+  font-size: 1.2rem;
+  font-weight: 800;
+}
+form div{
+  margin: 10px;
+}
+.innerLabel{
+  width: auto;
+
+}
+button{
+  background-color: yellow;
+  color: rgb(199, 24, 230);
+  font-style: initial;
+  font-weight: 700;
+  font-size: 1rem;
+}
+.profilePic{
+  width: 150px;
+  height: 150px;
+}
+h1{
+  background-image:url(https://media.gettyimages.com/id/964650398/photo/a-bunch-of-roses-as-a-bed.jpg?s=612x612&w=gi&k=20&c=9aFpEJgMI8761OJHyns4NszK_6ivd1SJ2cfDP3VpoNc=);
+
+   background-clip: text;
+   
+  color: transparent;
+  font-size: 3rem;
+}
+
+
